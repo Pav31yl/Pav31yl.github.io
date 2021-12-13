@@ -208,6 +208,21 @@ font-size: 14px;
 
     color: rgb(0, 0, 0);
 }
+.text{
+    align-items: center;
+
+    position: relative;
+  text-align:left;
+
+    font-style: normal;
+   font-weight: bold;
+font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.06em;
+
+
+    color: rgb(0, 0, 0);
+}
 
 .phone2 {
     /* +375-(29)-111-11-11 */
@@ -734,19 +749,28 @@ left: 50%;
 .payment{
     position: relative;
     top: 300px;
-    width: 950px;
-    left: 30%;
+    width: 1000px;
+    left: 25%;
     margin-bottom: 20%;
 }
 .about{
     position: relative;
     top: 300px;
-    width: 950px;
-    left: 30%;
+    width: 1000px;
+    left: 25%;
     margin-bottom: 20%;
     font-size: 24px;
 }
+.iframeborder{
+    margin-left: 5%;
+    margin-right: 63%;
+    
+    border: solid;
+    border-radius: 5px;
+}
+
 .iframe{
+    height: 510px;
     position: relative;
     left: 50px;
     top: 50px;
