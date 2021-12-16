@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <items>
+
     <item>
         <itemId>table</itemId>
         <name>Стол СЛ/15</name>
         <price>По запросу</price>
-
-
         <image>stol_sl15.jpg</image>
     </item>
 
@@ -20,8 +19,6 @@
         <itemId>stool</itemId>
         <name>Стул СТР/66 барный</name>
         <price>174 Br</price>
-
-
         <image>str66.jpg</image>
     </item>
 
@@ -29,16 +26,13 @@
         <itemId>banq</itemId>
         <name>Скамейка CК/2(утяжки)</name>
         <price>327 Br</price>
-
-
         <image>skameika_sk2.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Табурет Т/7 Мягкое Сидение</name>
         <price>По запросу</price>
-
-
         <image>taburet_t7_2.jpg</image>
     </item>
+
 </items>

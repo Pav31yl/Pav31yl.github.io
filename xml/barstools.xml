@@ -1,12 +1,10 @@
 <?xml version="1.0"?>
 <items>
- 
+
     <item>
         <itemId>stool</itemId>
         <name>Стул СТ/42</name>
         <price>150 Br</price>
-
-
         <image>st42.jpg</image>
     </item>
 
@@ -14,40 +12,30 @@
         <itemId>stool</itemId>
         <name>Стул СТ/45 барный</name>
         <price>234 Br</price>
-
-
         <image>st45bar.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул СТ/47 барный</name>
         <price>240 Br</price>
-
-
         <image>st47_bar.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул СТР/66 барный</name>
         <price>174 Br</price>
-
-
         <image>str66.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул Т/4</name>
         <price>132 Br</price>
-
-
         <image>t4.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул СБ/58</name>
         <price>158 Br</price>
-
-
         <image>sb58.jpg</image>
     </item>
 

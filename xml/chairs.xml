@@ -5,8 +5,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/45</name>
         <price>228 Br</price>
-
-
         <image>stul_st45.jpg</image>
     </item>
 
@@ -14,8 +12,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/47</name>
         <price>234 Br</price>
-
-
         <image>stul_st47.jpg</image>
     </item>
 
@@ -23,8 +19,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/92н</name>
         <price>195 Br</price>
-
-
         <image>stul_st92n.jpg</image>
     </item>
 
@@ -39,8 +33,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/95м</name>
         <price>144 Br</price>
-
-
         <image>stul_st95m.jpg</image>
     </item>
 
@@ -48,8 +40,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/72</name>
         <price>По запросу</price>
-
-
         <image>stul_sb72.jpg</image>
     </item>
 
@@ -57,8 +47,7 @@
         <itemId>chair</itemId>
         <name>Стул СТ/88 Катрин</name>
         <price>222 Br</price>
-
-
         <image>stul_st88katrin.jpg</image>
     </item>
+    
 </items>

@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <items>
+    
     <item>
         <itemId>table</itemId>
         <name>Стол СЛ/15</name>
         <price>По запросу</price>
-
-
         <image>stol_sl15.jpg</image>
     </item>
 
@@ -13,8 +12,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер СЛ/13</name>
         <price>648 Br</price>
-
-
         <image>stol_sl13.jpg</image>
     </item>
 
@@ -22,8 +19,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер СЛ/13 (Стекло/ЛДСП/металл)</name>
         <price>759 Br</price>
-
-
         <image>stol_sl13_steklo.jpg</image>
     </item>
 
@@ -31,8 +26,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер Крит</name>
         <price>540 Br</price>
-
-
         <image>stol_krit.jpg</image>
     </item>
 
@@ -40,8 +33,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер Крит (бочка)</name>
         <price>555 Br</price>
-
-
         <image>stol_krit_bochka.png</image>
     </item>
 
@@ -49,8 +40,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер СЛ/7.2</name>
         <price>579 Br</price>
-
-
         <image>stol_sl7.2.jpg</image>
     </item>
 

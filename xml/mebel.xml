@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <items>
+
     <item>
         <itemId>table</itemId>
         <name>Стол СЛ/15</name>
         <price>По запросу</price>
-
-
         <image>stol_sl15.jpg</image>
     </item>
 
@@ -13,8 +12,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер СЛ/13</name>
         <price>648 Br</price>
-
-
         <image>stol_sl13.jpg</image>
     </item>
 
@@ -22,8 +19,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер СЛ/13 (Стекло/ЛДСП/металл)</name>
         <price>759 Br</price>
-
-
         <image>stol_sl13_steklo.jpg</image>
     </item>
 
@@ -31,8 +26,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер Крит</name>
         <price>540 Br</price>
-
-
         <image>stol_krit.jpg</image>
     </item>
 
@@ -40,8 +33,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер Крит (бочка)</name>
         <price>555 Br</price>
-
-
         <image>stol_krit_bochka.png</image>
     </item>
 
@@ -49,8 +40,6 @@
         <itemId>table</itemId>
         <name>Стол-трансформер СЛ/7.2</name>
         <price>579 Br</price>
-
-
         <image>stol_sl7.2.jpg</image>
     </item>
 
@@ -58,8 +47,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/45</name>
         <price>228 Br</price>
-
-
         <image>stul_st45.jpg</image>
     </item>
 
@@ -67,8 +54,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/47</name>
         <price>234 Br</price>
-
-
         <image>stul_st47.jpg</image>
     </item>
 
@@ -76,8 +61,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/92н</name>
         <price>195 Br</price>
-
-
         <image>stul_st92n.jpg</image>
     </item>
 
@@ -101,8 +84,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/72</name>
         <price>По запросу</price>
-
-
         <image>stul_sb72.jpg</image>
     </item>
 
@@ -110,8 +91,6 @@
         <itemId>chair</itemId>
         <name>Стул СТ/88 Катрин</name>
         <price>222 Br</price>
-
-
         <image>stul_st88katrin.jpg</image>
     </item>
 
@@ -119,8 +98,6 @@
         <itemId>stool</itemId>
         <name>Стул СТ/42</name>
         <price>150 Br</price>
-
-
         <image>st42.jpg</image>
     </item>
 
@@ -128,88 +105,66 @@
         <itemId>stool</itemId>
         <name>Стул СТ/45 барный</name>
         <price>234 Br</price>
-
-
         <image>st45bar.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул СТ/47 барный</name>
         <price>240 Br</price>
-
-
         <image>st47_bar.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул СТР/66 барный</name>
         <price>174 Br</price>
-
-
         <image>str66.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул Т/4</name>
         <price>132 Br</price>
-
-
         <image>t4.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Стул СБ/58</name>
         <price>158 Br</price>
-
-
         <image>sb58.jpg</image>
     </item>
     <item>
         <itemId>banq</itemId>
         <name>Банкетка Кэт</name>
         <price>360 Br</price>
-
-
         <image>banketka_cat.jpg</image>
     </item>
     <item>
         <itemId>banq</itemId>
         <name>Пуфик ПФ/7</name>
         <price>153 Br</price>
-
-
         <image>pufik_pf7.jpg</image>
     </item>
     <item>
         <itemId>banq</itemId>
         <name>Скамейка Лофт</name>
         <price>По запросу</price>
-
-
         <image>skameika_loft.jpg</image>
     </item>
     <item>
         <itemId>banq</itemId>
         <name>Скамейка CК/2(утяжки)</name>
         <price>327 Br</price>
-
-
         <image>skameika_sk2.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Табурет Т/7 Мягкое Сидение</name>
         <price>По запросу</price>
-
-
         <image>taburet_t7_2.jpg</image>
     </item>
     <item>
         <itemId>stool</itemId>
         <name>Табурет Т/7</name>
         <price>75 Br</price>
-
-
         <image>taburet_t7.jpg</image>
     </item>
 

@@ -1,36 +1,28 @@
 <?xml version="1.0"?>
 <items>
-  
+
     <item>
         <itemId>banq</itemId>
         <name>Банкетка Кэт</name>
         <price>360 Br</price>
-
-
         <image>banketka_cat.jpg</image>
     </item>
     <item>
         <itemId>banq</itemId>
         <name>Пуфик ПФ/7</name>
         <price>153 Br</price>
-
-
         <image>pufik_pf7.jpg</image>
     </item>
     <item>
         <itemId>banq</itemId>
         <name>Пуфик ПФ/7</name>
         <price>По запросу</price>
-
-
         <image>skameika_loft.jpg</image>
     </item>
     <item>
         <itemId>banq</itemId>
         <name>Скамейка CК/2(утяжки)</name>
         <price>327 Br</price>
-
-
         <image>skameika_sk2.jpg</image>
     </item>
 

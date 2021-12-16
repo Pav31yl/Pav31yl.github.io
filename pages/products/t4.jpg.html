@@ -8,20 +8,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link rel="stylesheet" type="text/css" href="../../../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../../../css/style.css">
     <title>EDWin</title>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 </head>
-<style>
-
-</style>
 
 <body onload="mebel()">
     <a href="../../index.html"><img src="../../img/logo.svg" class="logo"></a>
-   <a href="../../index.html">
+    <a href="../../index.html">
         <p class="edw">EDWin</p>
     </a>
-   <div>
+    <div>
         <img src="../../img/Group.svg" class="phonelogo">
         <a class="phone1" href="tel:+3752911111121">+375-(29)-560-42-69
         </a>
@@ -30,126 +27,100 @@
         <img src="../../img/clock.svg" class="clock">
         <ul class="time">ежедневно 10:00-20:00</ul>
     </div>
-
     <div class="frame1" style="text-align:center;">
-            <ul class="button">
-      <a href="../../pages/catalog.html">каталог</a>
-      <a href="../../pages/about.html">о нас</a>
-      <a href="../../pages/payment.html">оплата</a>
-      <a href="../../pages/return.html">замена и возрат товара</a>
-      <a href="../../pages/contacts.html"> контакты</a>
-  </ul>
+        <ul class="button">
+            <a href="../../pages/catalog.html">каталог</a>
+            <a href="../../pages/about.html">о нас</a>
+            <a href="../../pages/payment.html">оплата</a>
+            <a href="../../pages/return.html">замена и возрат товара</a>
+            <a href="../../pages/contacts.html"> контакты</a>
+        </ul>
     </div>
-
     <div class="main">
-         <ul class="button2"><a href="../../index.html" class="category"> Главная »</a>
-        </ul></div>
-       
- 
- <img src="../../furniture/t4.jpg" class="pict">
-     <div class="info">Стул Т/4</div>
-     <p class="info" style="font-size: 26px;">Барный табурет в стиле лофт.
-
-      <p class="info" style="font-size: 26px;">Устойчивая цельная опора из квадратной неширокой трубы придаёт стулу неутяжелённый вид и изящество.</p>
-     <p class="info">132 Bn</p>
-     
-     <button class="open-button" onclick="openForm()">Открыть форму</button>
-
-<div class="form-popup" id="myForm">
-  <form class="form-container">
-    <h1>Заявка</h1>
-
-    <label for="name"><b>Имя</b></label>
-    <input type="text" placeholder="Ваше имя" name="name" required>
-
-    <label for="phone"><b>Номер телефона</b></label>
-    <input type="text" placeholder="+375..." name="phone" required>
-	<label for="email"><b>Почта</b></label>
-    <input type="text" placeholder="E-mail" name="email" required>
-    <label for="psw"><b>Сообщение</b></label>
-    <input type="longtext" placeholder="Ваше сообщение" name="psw" required>
-    <button type="submit" class="btn">Отправить</button>
-    <button type="button" class="btn cancel" onclick="closeForm()">Закрыть</button>
-  </form>
-</div>
-
-<script>
-function openForm() {
-  document.getElementById("myForm").style.display = "block";
-}
-
-function closeForm() {
-  document.getElementById("myForm").style.display = "none";
-}
-</script>
-   <div style="padding-top: 150px; text-align: center;">
-<h1>Гарантии</h1>
-<h2 style="font-weight: normal;">Гарантийный срок составляет 18 месяцев со дня продажи.</h2>
-<h1>Сертификация</h1>
-<h2 style="font-weight: normal;">Товар сертифицирован</h2>
-</div>
- 
-
-
-
-
-
-
-
-
+        <ul class="button2"><a href="../../index.html" class="category"> Главная »</a>
+        </ul>
     </div>
+    <img src="../../furniture/t4.jpg" class="pict">
+    <div class="info">Стул Т/4</div>
+    <p class="info" style="font-size: 26px;">Барный табурет в стиле лофт.
+    <p class="info" style="font-size: 26px;">Устойчивая цельная опора из квадратной неширокой трубы придаёт стулу неутяжелённый вид и изящество.</p>
+    <p class="info">132 Bn</p>
+    <button class="open-button" onclick="openForm()">Открыть форму</button>
+    <div class="form-popup" id="myForm">
+        <form class="form-container">
+            <h1>Заявка</h1>
+            <label for="name"><b>Имя</b></label>
+            <input type="text" placeholder="Ваше имя" name="name" required>
+            <label for="phone"><b>Номер телефона</b></label>
+            <input type="text" placeholder="+375..." name="phone" required>
+            <label for="email"><b>Почта</b></label>
+            <input type="text" placeholder="E-mail" name="email" required>
+            <label for="psw"><b>Сообщение</b></label>
+            <input type="longtext" placeholder="Ваше сообщение" name="psw" required>
+            <button type="submit" class="btn">Отправить</button>
+            <button type="button" class="btn cancel" onclick="closeForm()">Закрыть</button>
+        </form>
+    </div>
+    <script>
+        function openForm() {
+            document.getElementById("myForm").style.display = "block";
+        }
 
+        function closeForm() {
+            document.getElementById("myForm").style.display = "none";
+        }
+
+    </script>
+    <div style="padding-top: 150px; text-align: center;">
+        <h1>Гарантии</h1>
+        <h2 style="font-weight: normal;">Гарантийный срок составляет 18 месяцев со дня продажи.</h2>
+        <h1>Сертификация</h1>
+        <h2 style="font-weight: normal;">Товар сертифицирован</h2>
+    </div>
     <script type="text/javascript" src="js/totop.js"></script>
-  <DIV ID="toTop"> ^ Наверх </DIV> 
-<footer id="myFooter">
+    <DIV ID="toTop"> ^ Наверх </DIV>
+    <footer id="myFooter">
         <div class="container">
-            
-              
-                <div class="col-sm-2">
-                    <h5>Навигация</h5>
-                    <ul>
-                        <li><a href="../../index.html">На главную</a></li>
-                        <li><a href="../../pages/catalog.html">Каталог</a></li>
-                        <li><a href="../../pages/about.html">О нас</a></li>
-                        <li><a href="../../pages/payment.html">Оплата</a></li>
-                        <li><a href="../../pages/return.html">Замена и возрат товара</a></li>
-                        
-                    </ul>
+            <div class="col-sm-2">
+                <h5>Навигация</h5>
+                <ul>
+                    <li><a href="../../index.html">На главную</a></li>
+                    <li><a href="../../pages/catalog.html">Каталог</a></li>
+                    <li><a href="../../pages/about.html">О нас</a></li>
+                    <li><a href="../../pages/payment.html">Оплата</a></li>
+                    <li><a href="../../pages/return.html">Замена и возрат товара</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <h5>Каталог</h5>
+                <ul>
+                    <li><a href="../../pages/chairs.html">Стулья</a></li>
+                    <li><a href="../../pages/barstools.html">Стулья барные</a></li>
+                    <li><a href="../../pages/stools.html">Табуреты</a></li>
+                    <li><a href="../../pages/banquet.html">Банкетки</a></li>
+                    <li><a href="../../pages/tables.html">Столы</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <h5>Информация</h5>
+                <ul>
+                    <li><a href="../../pages/contacts.html">Адрес: а-г Хатежино, ул. Центральная </a></li>
+                    <li><a href="tel:+375295604269">+375-(29)-560-42-69</a></li>
+                    <li><a href="tel:+375293460357">+375-(29)-346-03-57</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <div class="social-networks">
+                    <a href="https://instagram.com/edwin_group/" class="instagram"><i class="fa fa-instagram"></i></a>
+                    <a href="https://facebook.com/edwin_group/" class="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/edwin_group/" class="twitter"><i class="fa fa-twitter"></i></a>
                 </div>
-                <div class="col-sm-2">
-                    <h5>Каталог</h5>
-                    <ul>
-                        <li><a href="../../pages/chairs.html">Стулья</a></li>
-                        <li><a href="../../pages/barstools.html">Стулья барные</a></li>
-                        <li><a href="../../pages/stools.html">Табуреты</a></li>
-                        <li><a href="../../pages/banquet.html">Банкетки</a></li>
-                        <li><a href="../../pages/tables.html">Столы</a></li>
-
-                    </ul>
-                </div>
-                <div class="col-sm-2">
-                    <h5>Информация</h5>
-                    <ul>
-                        <li><a href="../../pages/contacts.html">Адрес: а-г Хатежино, ул. Центральная </a></li>
-                        <li><a href="tel:+375295604269">+375-(29)-560-42-69</a></li>
-                        <li><a href="tel:+375293460357">+375-(29)-346-03-57</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-3">
-                    <div class="social-networks">
-                        <a href="https://instagram.com/edwin_group/" class="instagram"><i class="fa fa-instagram"></i></a>
-                        <a href="https://facebook.com/edwin_group/" class="facebook"><i class="fa fa-facebook"></i></a>
-                        <a href="https://twitter.com/edwin_group/" class="twitter"><i class="fa fa-twitter"></i></a>
-                    </div>
-                </div>
-            
+            </div>
         </div>
     </footer>
 </body>
-
 <script type="text/javascript" src="js/stools.js"></script>
 <script src="https://yastatic.net/s3/frontend/forms/_/embed.js">
-
 </script>
 
 </html>

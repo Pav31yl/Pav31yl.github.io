@@ -1,6 +1,7 @@
 <html lang="ru">
 
 <head>
+    <script src="https://unpkg.com/scrollreveal@4"></script>
     <link rel="shortcut icon" href="/img/logo.svg" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,10 +13,6 @@
     <title>EDWin. Купить мебель от производителя</title>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 </head>
-<style>
-
-</style>
-
 <body onload="mebel()">
     <a href="../index.html"><img src="../img/logo.svg" class="logo"></a>
     <a href="../index.html">
@@ -38,7 +35,6 @@
             <a href="../pages/return.html">замена и возрат товара</a>
             <a href="../pages/contacts.html"> контакты</a>
         </ul>
-
     </div>
     <div class="main">
         <ul class="button2"><a href="../index.html" class="category"> Главная »</a>
@@ -55,27 +51,15 @@
             <li><a href="../pages/banquet.html" class="category" onclick="banquet()">Банкетки</a></li>
             <li><a href="../pages/tables.html" class="category" onclick="tables()">Столы</a></li>
         </UL>
-
-
-
-
     </div>
-
-
-
-
     <div style="padding-top: 500px; ">
         <div class="content">
-
         </div>
     </div>
-
     <script type="text/javascript" src="../js/totop.js"></script>
     <DIV ID="toTop"> ^ Наверх </DIV>
     <footer id="myFooter">
-        <div class="container">
-            
-              
+        <div class="container">    
                 <div class="col-sm-2">
                     <h5>Навигация</h5>
                     <ul>
@@ -84,7 +68,6 @@
                         <li><a href="../../pages/about.html">О нас</a></li>
                         <li><a href="../../pages/payment.html">Оплата</a></li>
                         <li><a href="../../pages/return.html">Замена и возрат товара</a></li>
-                        
                     </ul>
                 </div>
                 <div class="col-sm-2">
@@ -95,7 +78,6 @@
                         <li><a href="../../pages/stools.html">Табуреты</a></li>
                         <li><a href="../../pages/banquet.html">Банкетки</a></li>
                         <li><a href="../../pages/tables.html">Столы</a></li>
-
                     </ul>
                 </div>
                 <div class="col-sm-2">
@@ -113,11 +95,11 @@
                         <a href="https://twitter.com/edwin_group/" class="twitter"><i class="fa fa-twitter"></i></a>
                     </div>
                 </div>
-            
         </div>
     </footer>
+    <script>
+		ScrollReveal().reveal('.content', { delay: 250 });
+	</script>
 </body>
-
 <script type="text/javascript" src="../js/lll.js"></script>
-
 </html>
