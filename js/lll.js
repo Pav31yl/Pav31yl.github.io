@@ -12,8 +12,7 @@ function mebel() {
     let item = xmlDoc.getElementsByTagName("item");
     console.log(item);
     for (i = 0; i < item.length; i++) {
-        // тут создаётся тебе нужный див(стили настроишь сам)
-        //
+   
         let newElement = document.createElement("div")
         newElement.innerHTML = `<div class="item-temp">
         <img src="../furniture/${item[i].getElementsByTagName('image')[0].innerHTML}" width="200px"; height="200px">
