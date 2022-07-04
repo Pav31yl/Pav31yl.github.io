@@ -164,13 +164,32 @@ body {
     position: absolute;
     width: 208px;
     height: 33px;
-    margin-left: 62%;
+    margin-left: 60%;
     top: 30px;
     font-style: normal;
     font-weight: 200;
     font-size: 20px;
     line-height: 33px;
     color: #000000;
+}
+.phone2 {
+    position: absolute;
+    width: 208px;
+    height: 33px;
+    margin-left: 60%;
+    top: 60px;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 33px;
+    color: #000000;
+}
+.phonelogo {
+    position: absolute;
+    width: 50px;
+    height: 59px;
+    margin-left: 55%;
+    top: 32px;
 }
 
 .textini {
@@ -186,7 +205,16 @@ body {
     letter-spacing: 0.06em;
     color: rgb(0, 0, 0);
 }
-
+.frame1 {
+    position: absolute;
+    max-width: none;
+    width: 100%;
+    max-height: 100px;
+    height: 100%;
+    left: 0px;
+    top: 22%;
+    background: #494949;
+}
 .text {
     align-items: center;
     position: relative;
@@ -198,36 +226,6 @@ body {
     letter-spacing: 0.06em;
     color: rgb(0, 0, 0);
 }
-
-.phone2 {
-    position: absolute;
-    width: 208px;
-    height: 33px;
-    margin-left: 62%;
-    top: 60px;
-    font-style: normal;
-    font-weight: 200;
-    font-size: 20px;
-    line-height: 33px;
-    color: #000000;
-}
-
-.phonelogo {
-    position: absolute;
-    width: 50px;
-    height: 59px;
-    margin-left: 58%;
-    top: 32px;
-}
-
-.clock {
-    position: absolute;
-    width: 43px;
-    height: 43px;
-    margin-left: 79%;
-    top: 41px;
-}
-
 .time {
     position: absolute;
     width: 136px;
@@ -242,6 +240,108 @@ body {
     text-align: center;
     color: #000000;
 }
+
+
+.clock {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    margin-left: 79%;
+    top: 41px;
+}
+
+@media (max-width: 768px) {
+    .phone1 {
+        position: absolute;
+        width: 120px;
+        height: 33px;
+        margin-left: 52%;
+        top: 25px;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 10px;
+        line-height: 33px;
+        color: #000000;
+    }
+    .phone2 {
+        position: absolute;
+        width: 120px;
+        height: 33px;
+        margin-left: 52%;
+        top: 40px;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 10px;
+        line-height: 33px;
+        color: #000000;
+    }
+    .phonelogo {
+        position:absolute;
+        width: 25px;
+        height:35px;
+        margin-left: 48%;
+        top: 32px;
+    }
+    .logo {
+        position: absolute;
+        width: 49px;
+        height: 60px;
+        left: -1%;
+  
+    }
+    .edw {
+        position: absolute;
+        width: 115px;
+        height: 49px;
+        left: -49px;
+        top: -10px;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 36px;
+        line-height: 49px;
+        letter-spacing: 0.05em;
+        color: #000000;
+        
+    }
+    
+
+.clock {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    margin-left: 69%;
+    top: 7%;
+}
+.frame1 {
+    position: absolute;
+    max-width: none;
+    width: 100%;
+    max-height: 100px;
+    height: 100%;
+    left: 0px;
+    top: 18%;
+    background: #494949;
+}
+.time {
+    position: absolute;
+    width: 148px;
+    height: 66px;
+    float: right;
+    margin-left: 65%;
+    top: 3%;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+}
+
+
+
+
+
 
 .button {
     font-style: normal;
@@ -277,16 +377,7 @@ body {
     color: #000;
 }
 
-.frame1 {
-    position: absolute;
-    max-width: none;
-    width: 100%;
-    max-height: 100px;
-    height: 100%;
-    left: 0px;
-    top: 120px;
-    background: #494949;
-}
+
 
 .category {
     font-size: 25px;
